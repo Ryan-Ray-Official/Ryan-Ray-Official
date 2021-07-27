@@ -5,15 +5,15 @@
 <br />
 <h4 align="center">
 
-- 🔭 I’m currently working on **[DarkRPG Bot](https://discord.gg/darkwarriors)**
+ 🔭 I’m currently working on **[DarkRPG Bot](https://discord.gg/darkwarriors)**
 
-- 🌱 I’m currently learning **Java,Python3, Discord.js Commando Framework, Discord.js v13, SQL3, React**
+ 🌱 I’m currently learning **Java,Python3, Discord.js Commando Framework, Discord.js v13, SQL3, React**
 
-- 💬 Ask me about **Javascript, HTML5, (Some CSS), Discord.js**
+ 💬 Ask me about **Javascript, HTML5, (Some CSS), Discord.js**
 
-- 📫 How to reach me **Discord: Redline#1559**
+ 📫 How to reach me **Discord: Redline#1559**
 
-- ⚡ Fun fact **I Suck At Chitchats**
+ ⚡ Fun fact **I Suck At Chitchats**
 </h5>
 
 <br>
@@ -37,13 +37,13 @@
 <hr style="border-radius: 40px; border: 2px solid;">
 <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryan-ray-official" alt="Ryan Ray Official" /></a> </p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryan-ray-official&show_icons=true&locale=en" alt="Ryan Ray Official" /></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryan-ray-official" alt="Trophy Image" /></a> </p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryan-ray-official&show_icons=true&locale=en" alt="Github Stats" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryan-ray-official&" alt="Ryan Ray Official" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryan-ray-official&" alt="Total Cont" /></p>
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryan-ray-official&show_icons=true&locale=en&layout=compact" alt="Ryan Ray Official" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryan-ray-official&show_icons=true&locale=en&layout=compact" alt="Most Used Languages">
 
 <br>
 <hr>
