@@ -29,8 +29,8 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryan-ray-official&" alt="Ryan Ray Official" /></p>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryan-ray-official" alt="Ryan Ray Official" /></a> </p>
+
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryan-ray-official&show_icons=true&locale=en&layout=compact" alt="Ryan Ray Official" /></p>
 
 
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryan-ray-official" alt="Ryan Ray Official" /></a> </p>
