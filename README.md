@@ -8,7 +8,7 @@
 <br>
 <h4 align="center">
 I am a 15 year old developer that has been coding HTML5 for nearly 4-5 years, I started since i was 10 years old at school and learning from w3schools and youtube tutorials!<br>
- I'm a pretty chill person and I'm a Listener at [7cups](https://www.7cups.com/@RyanRaymond ), So if you require anything or just want to vent just message me! I Also Play minecraft and I would love if it if you would hmu and we could maybe play some bedwars or just chill!
+ I'm a pretty chill person and I'm a Listener at [7Cups](https://www.7cups.com/@RyanRaymond), So if you require anything or just want to vent just message me! I Also Play minecraft and I would love if it if you would hmu and we could maybe play some bedwars or just chill!
 </h4>
 <br />
 <h4 align="center">
