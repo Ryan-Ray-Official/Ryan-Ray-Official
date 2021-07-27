@@ -5,7 +5,7 @@
 <br />
 <h4 align="center">
 
- 🔭 I’m currently working on **[DarkRPG Bot](https://discord.gg/darkwarriors)**
+ 🔭 I’m currently working on **[DarkRPG Bot](https://discord.gg/qzwbvHudvA)**
 
  🌱 I’m currently learning **Java,Python3, Discord.js Commando Framework, Discord.js v13, SQL3, React**
 
