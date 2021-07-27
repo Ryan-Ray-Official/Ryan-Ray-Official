@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Redline</h1>
-<h3 align="center">A passionate developer from Egypt</h3>
+<h3 align="center">A passionate developer from Egypt</h3> <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ryan-ray-official&label=Profile%20views&color=0e75b6&style=flat" alt="Ryan Ray Official" /> </p>
 <br />
 <br />
@@ -36,7 +36,8 @@
 <br>
 <hr style="border-radius: 40px; border: 2px solid;">
 <br>
-
+<h3 align="center">Stats:</h3>
+<br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryan-ray-official" alt="Trophy Image" /></a> </p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryan-ray-official&show_icons=true&locale=en" alt="Github Stats" /></p>
 
