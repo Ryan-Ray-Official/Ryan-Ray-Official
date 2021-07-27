@@ -26,7 +26,7 @@
 <hr style="border-radius: 40px; border: 2px solid;">
 <br>
 
-<h3 align="center">Contact Me:</h3> <br>
+<h3 align="center">Social Media:</h3> <br>
 <p align="center">
 <a href="https://dev.to/ryanray" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ryanray" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15543701" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15543701" height="30" width="40" /></a>
