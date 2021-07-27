@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Redline</h1>
-<h3 align="center">A passionate developer from Egypt</h3> <br>
+<h3 align="center">I am an Egyptian Web Developer!</h3> <br> <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ryan-ray-official&label=Profile%20views&color=0e75b6&style=flat" alt="Ryan Ray Official" /> </p>
 <br />
 <br />
+
+<h3 align="center">Bio And Information:</h3>
+<br>
+<h4 align="center">Test</h4>
+<br />
 <h4 align="center">
+<br>
 
  🔭 I’m currently working on **[DarkRPG Bot](https://discord.gg/qzwbvHudvA)**
 
