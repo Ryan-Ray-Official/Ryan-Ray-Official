@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Redline</h1>
 <h3 align="center">A passionate developer from Egypt</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ryan-ray-official&label=Profile%20views&color=0e75b6&style=flat" alt="Ryan Ray Official" /> </p>
-
+<br />
+<br />
 
 - 🔭 I’m currently working on [DarkRPG Bot](https://discord.gg/darkwarriors)
 
@@ -24,11 +25,11 @@
 
 
 \
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryan-ray-official&show_icons=true&locale=en" alt="Ryan Ray Official" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryan-ray-official&show_icons=true&locale=en" alt="Ryan Ray Official" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryan-ray-official&" alt="Ryan Ray Official" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryan-ray-official&" alt="Ryan Ray Official" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryan-ray-official&show_icons=true&locale=en&layout=compact" alt="Ryan Ray Official" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryan-ray-official&show_icons=true&locale=en&layout=compact" alt="Ryan Ray Official" /></p>
 
 
 
