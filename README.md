@@ -1,10 +1,3 @@
-<h1 align="center">Many people know me from Redline or Ryan, I've been a friend, a brother and a lover but sometimes life doesn't go anywhere, I'll start unprivating some of my projects and unfinished work, I have nothing to live for anymore.. I'm sorry to everyone that I've ever let down, I never used anyone of you and I always loved you guys with all my fucking heart. I'm sorry</h1>
-
-<br />
-<br />
-<br />
-<br />
-<br />
 <h1 align="center">Hi 👋, I'm Redline</h1>
 <h3 align="center">I am an Egyptian Web Developer!</h3> <br> <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ryan-ray-official&label=Profile%20views&color=0e75b6&style=flat" alt="Ryan Ray Official" /> </p>
