@@ -7,7 +7,7 @@
 <h3 align="center">Bio And Information:</h3>
 <br>
 <h4 align="center">
-I am a 15 year old developer that has been coding HTML5 for nearly 4-5 years, I started since i was 10 years old at school and learning from w3schools and youtube tutorials!<br>
+I am a 16 year old developer that has been coding HTML5 for nearly 4-5 years, I started since i was 10 years old at school and learning from w3schools and youtube tutorials!<br>
  I'm a pretty chill person and I'm a Listener at 7Cups Link: ( https://www.7cups.com/@RyanRaymond ), So if you require anything or just want to vent just message me! I Also Play minecraft and I would love if it if you would hmu and we could maybe play some bedwars or just chill!
 </h4>
 <br />
@@ -16,7 +16,7 @@ I am a 15 year old developer that has been coding HTML5 for nearly 4-5 years, I 
 
  🔭 I’m currently working on **[DarkRPG Bot](https://discord.gg/qzwbvHudvA)**
 
- 🌱 I’m currently learning **Java,Python3, Discord.js Commando Framework, Discord.js v13, SQL3, React**
+ 🌱 I’m currently learning **Java, Python3, Discord.js v14, SQL3, Reactjs, React-Native**
 
  💬 Ask me about **Javascript, HTML5, (Some CSS), Discord.js**
 
